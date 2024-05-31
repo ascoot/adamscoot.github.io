@@ -1,5 +1,5 @@
-# ascoot.github.io
-Arabica public website
+# adamscoot.github.io
+Adam Scoot Agile Consultant and Coach
 
 
 
